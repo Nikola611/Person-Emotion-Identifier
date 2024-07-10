@@ -19,3 +19,5 @@ The project uses OpenCV for video capture, image processing, and displaying the 
 FER is a Python library that provides tools for facial emotion recognition.
 The project uses FER to detect and classify emotions on detected faces in real-time.
 
+*THE REPO DOES NOT CONTAIN TRAINING IMAGES DOWNLOADED FROM https://cocodataset.org/#download. IF YOU WANT TO RUN IT DOWNLOAD TRAINING IMAGES AND ANNOTATIONS FOR 2017*
+
